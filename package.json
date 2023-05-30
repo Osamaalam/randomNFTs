@@ -1,0 +1,23 @@
+{
+  "name": "Random NFTs API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "canvas": "^2.11.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "merge-images": "^2.0.0",
+    "node-canvas": "^2.7.0",
+    "nodemon": "^2.0.22",
+    "random-js": "^2.1.0"
+  }
+}
